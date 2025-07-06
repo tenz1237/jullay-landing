@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fff;
+  color: #333;
+}
+header {
+  background: #ff4d30;
+  padding: 1.5em;
+  color: white;
+}
+.hero {
+  padding: 4em 1em;
+}
+.cta-button {
+  display: inline-block;
+  margin-top: 1em;
+  padding: 0.75em 1.5em;
+  background: #ff4d30;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+footer {
+  margin-top: 4em;
+  font-size: 0.9em;
+  color: #666;
+}
